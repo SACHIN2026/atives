@@ -163,7 +163,25 @@ Built with ❤️ for the Atives SDE Intern Assessment
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.vercel.app) *(Deploy link to be added)*
+[View Live Demo](https://atives-mini-platform.vercel.app) *(Coming Soon)*
+
+## 📊 Development Timeline
+
+This project was developed over 2 days (August 15-16, 2025) with the following milestones:
+
+**Day 1 (Aug 15, 2025)**
+- ✅ Project setup and configuration
+- ✅ React structure and routing setup  
+- ✅ Theme system and styled components
+- ✅ Data structures and mock data
+- ✅ Layout components and navigation
+
+**Day 2 (Aug 16, 2025)**
+- ✅ Home Feed implementation
+- ✅ Jobs Board development
+- ✅ Explore Feed and Profile pages
+- ✅ Onboarding flow and animations
+- ✅ Final touches and documentation
 
 ## 🎯 Features
 
@@ -329,5 +347,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-#   a t i v e s  
+#   a t i v e s 
+ 
  
